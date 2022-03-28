@@ -17,7 +17,7 @@ import org.hibernate.annotations.CreationTimestamp;
 import org.hibernate.annotations.GeneratorType;
 
 import com.fasterxml.jackson.annotation.JsonIgnore;
-
+//mapping achieved between food order andd item
 @Entity
 public class FoodOrder {
 	@Id
